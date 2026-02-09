@@ -1,0 +1,14 @@
+/Users/sebastian/Downloads/lab-polymorphism/bin/Debug/net9.0/lab-polymorphism
+/Users/sebastian/Downloads/lab-polymorphism/bin/Debug/net9.0/lab-polymorphism.deps.json
+/Users/sebastian/Downloads/lab-polymorphism/bin/Debug/net9.0/lab-polymorphism.runtimeconfig.json
+/Users/sebastian/Downloads/lab-polymorphism/bin/Debug/net9.0/lab-polymorphism.dll
+/Users/sebastian/Downloads/lab-polymorphism/bin/Debug/net9.0/lab-polymorphism.pdb
+/Users/sebastian/Downloads/lab-polymorphism/obj/Debug/net9.0/lab-polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastian/Downloads/lab-polymorphism/obj/Debug/net9.0/lab-polymorphism.AssemblyInfoInputs.cache
+/Users/sebastian/Downloads/lab-polymorphism/obj/Debug/net9.0/lab-polymorphism.AssemblyInfo.cs
+/Users/sebastian/Downloads/lab-polymorphism/obj/Debug/net9.0/lab-polymorphism.csproj.CoreCompileInputs.cache
+/Users/sebastian/Downloads/lab-polymorphism/obj/Debug/net9.0/lab-polymorphism.dll
+/Users/sebastian/Downloads/lab-polymorphism/obj/Debug/net9.0/refint/lab-polymorphism.dll
+/Users/sebastian/Downloads/lab-polymorphism/obj/Debug/net9.0/lab-polymorphism.pdb
+/Users/sebastian/Downloads/lab-polymorphism/obj/Debug/net9.0/lab-polymorphism.genruntimeconfig.cache
+/Users/sebastian/Downloads/lab-polymorphism/obj/Debug/net9.0/ref/lab-polymorphism.dll
